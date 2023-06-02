@@ -1,1 +1,1 @@
-C'est un projet de test
+C'est un projet de test en groupe
